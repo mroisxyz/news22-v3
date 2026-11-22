@@ -2,9 +2,9 @@ import { mkdirSync, copyFileSync, statSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-// Authored digest: 36 dated stories stamped 22 November 2026.
+// Authored digest: 36 dated stories bearing 22 November 2026.
 // Twelve cards are clipped at word boundaries, never mid-word cuts.
-// A 3-column digest closes the page under the serif masthead art.
+// A 3-column digest closes the page beneath the serif masthead art.
 // Every card carries a visible date check before the plate is written.
 // Output stays deterministic from the bundled entry.png source asset.
 
